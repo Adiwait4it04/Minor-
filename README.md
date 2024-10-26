@@ -1,7 +1,7 @@
 
 # Rapid AutoKYC
 
-This is our attempt of automating the Human Resource intensive Know Your Customer (*KYC) process. This project was created by **Team Alt F4, A group of 6 techies for the **Standard Chartered Hackathon 2024*. 
+This is our attempt of automating the Human Resource intensive Know Your Customer (*KYC) process.  
 
 # Synopsis
 This is a simple and smooth application with  *User Friendly* UI, with *Multilingual* support for automating and simplifying  the Human Resource intensive Know Your Customer (*KYC*) process. This application defies educational and financial boundaries in the KYC process. 
